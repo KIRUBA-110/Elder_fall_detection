@@ -5,4 +5,5 @@ A   project that takes data from acclerometer and sends to firebase via esp32 al
 <img width="1080" height="2392" alt="Screenshot_20260306-145517" src="https://github.com/user-attachments/assets/19088286-af6b-40fd-885e-b6107bf9e92e" />
 <img width="1080" height="2392" alt="Screenshot_20260306-175455" src="https://github.com/user-attachments/assets/04e6d456-e0dc-44ee-b7b1-a0a08c014861" />
 <img width="1080" height="2392" alt="Screenshot_20260306-085254 (1)" src="https://github.com/user-attachments/assets/a518cd7e-dcbd-4900-b6fe-f3b18b6139ad" />
-<img width="1111" height="448" alt="image" src="https://github.com/user-attachments/assets/5e5a7236-b05f-4c37-86df-fb665c0f3df5" />
+<img width="954" height="576" alt="image" src="https://github.com/user-attachments/assets/2136a105-0b87-4bd2-9fa3-bcad024f7d8e" />
+
