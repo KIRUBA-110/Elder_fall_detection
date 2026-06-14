@@ -64,48 +64,44 @@ Firebase Realtime Database
 
 ## 📱 Application Screenshots
 
-### Dashboard
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/19088286-af6b-40fd-885e-b6107bf9e92e" width="220" alt="Dashboard"/>
+  <img src="https://github.com/user-attachments/assets/04e6d456-e0dc-44ee-b7b1-a0a08c014861" width="220" alt="Event History"/>
+  <img src="https://github.com/user-attachments/assets/a518cd7e-dcbd-4900-b6fe-f3b18b6139ad" width="220" alt="Live Monitoring"/>
+</p>
 
-<img width="1080" height="2392" alt="Dashboard" src="https://github.com/user-attachments/assets/19088286-af6b-40fd-885e-b6107bf9e92e" />
+## Hardware Prototype
 
-### Event History
-
-<img width="1080" height="2392" alt="History" src="https://github.com/user-attachments/assets/04e6d456-e0dc-44ee-b7b1-a0a08c014861" />
-
-### Live Monitoring
-
-<img width="1080" height="2392" alt="Monitoring" src="https://github.com/user-attachments/assets/a518cd7e-dcbd-4900-b6fe-f3b18b6139ad" />
-
-### Hardware Prototype
-
-<img width="954" height="576" alt="Prototype" src="https://github.com/user-attachments/assets/2136a105-0b87-4bd2-9fa3-bcad024f7d8e" />
-
-## 📊 Status Definitions
-
-| Status | Description                              |
-| ------ | ---------------------------------------- |
-| SAFE   | User is stationary and normal            |
-| ACTIVE | User is moving normally                  |
-| FALL   | Sudden abnormal motion indicating a fall |
-
-## 🎯 Project Objectives
-
-* Improve elderly safety and independence
-* Provide real-time emergency awareness
-* Enable remote monitoring by caregivers
-* Deliver a low-cost and scalable healthcare solution
-
-## 🔮 Future Enhancements
-
-* SMS and phone-call alerts
-* Emergency contact integration
-* Geofencing support
-* Heart rate and SpO₂ monitoring
-* Machine Learning based fall classification
-* Battery optimization for long-term deployment
-
-## OUTPUT
-<img width="954" height="576" alt="Prototype" src="elder.jpeg" />
+<p align="center">
+  <img src="elder.jpeg" width="700" alt="Project Output"/>
+</p>
 
 ## 👨‍💻 Team
+
+<table align="center">
+<tr>
+<td align="center">
+
+### Kirubagaran A
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/KIRUBA-110)
+
+</td>
+
+<td align="center">
+
+### Guna Chandru
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/gchan57)
+
+</td>
+
+<td align="center">
+
+### Jeevith K S
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/)
+
+</td>
+</tr>
+</table>
+```
+
 
