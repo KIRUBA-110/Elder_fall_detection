@@ -104,8 +104,8 @@ Firebase Realtime Database
 * Machine Learning based fall classification
 * Battery optimization for long-term deployment
 
+## OUTPUT
+<img width="954" height="576" alt="Prototype" src="elder.jpeg" />
+
 ## 👨‍💻 Team
 
-Developed as part of **Hack30 2026**.
-
-A practical IoT healthcare solution focused on enhancing elderly safety through real-time monitoring, fall detection, and location tracking.
