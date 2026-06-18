@@ -97,7 +97,7 @@ Firebase Realtime Database
 <td align="center">
 
 ### Jeevith K S
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/jeevithks08)
 
 </td>
 </tr>
